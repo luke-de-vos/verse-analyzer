@@ -6,8 +6,6 @@
 
 move Word methods to global scope so there's not that messy Word() nonsense in splitSylls
 
-have POS tagging be performed on a line by line basis to improve accuracy
-
 Data Sources:
 	note- "office" o sound is AO, "top" o sound is AA
 	there's some weirdness with the vowel sound in words like "war" too
