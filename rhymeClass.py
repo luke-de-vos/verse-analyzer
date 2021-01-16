@@ -1,5 +1,4 @@
 #Luke De Vos
-#NLP final project
 #Lyric Analyzer
 
 '''
