@@ -25,4 +25,4 @@ Despite not rhyming in the traditional sense, these arrangements of sounds have 
 * flag unemphasized words if they are part of a string of emphasized rhymes
 * color code accordingly
 
-**rhymeClass.py** is a work in progress, and textual analysis of a spoken art form will always be limited. However, combined with some speech recognition and sensitivity to rhymth, I believe these strategies could approach human levels of rhyme-tagging accuracy.
+**rhymeClass.py** is a work in progress, and textual analysis of a spoken art form is inherently limited. However, combined with some speech recognition and sensitivity to rhythm, I believe these strategies could approach human levels of rhyme-tagging accuracy.
