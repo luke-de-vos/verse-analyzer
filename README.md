@@ -19,7 +19,7 @@ Despite not rhyming in the traditional sense, these arrangements of sounds have 
 
 * use NLTK to determine each word's part of speech
 * divide each word into its syllables
-* mark each syllable as emphasized or unemphasized
+* mark each syllable as emphasized or unemphasized 
 ** one syllable words are initially all emphasized. Then, **rhymeClass.py** estimates the emphasis of each one syllable word based on its part of speech, position in sentence, and the emphasis of adjacent syllables.
 * flag emphasized words within 12 syllables of each other that traditionally rhyme
 * flag unemphasized words if they are part of a string of emphasized rhymes
