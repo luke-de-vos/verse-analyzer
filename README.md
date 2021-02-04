@@ -13,7 +13,7 @@ Skillful rappers are masters of rhythm and enunciation. They leverage these skil
 * mom's spaghetti
 * on forgetting
 
-Despite not rhyming in the traditional sense, these arrangements of sounds have the sonic impact of rhymes when delivered by Eminem in his song "Lose Yourself". Thus, a program attempting to visualize a verse's rhymes must consider that vowel sounds alone may constitute a rhyme. However, flagging every syllable, word, or phrase that shares vowel sounds with another nearby yields an invalidating number of false positives.
+Despite not rhyming in the traditional sense, these arrangements of sounds have the sonic impact of rhymes when delivered by Eminem in his song "Lose Yourself". Thus, a program attempting to visualize a verse's rhymes by text alone must consider that vowel sounds alone may constitute a rhyme. However, flagging every syllable, word, or phrase that shares vowel sounds with another nearby yields an invalidating number of false positives.
 
 **rhymeClass.py** goes through the following steps to generate more accurate assessments of rhymes than simple phonetics analysis:
 
